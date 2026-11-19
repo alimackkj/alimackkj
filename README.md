@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=CAMILA%20FERNANDA%20EVANGELISTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=CAMILA%20FERNANDA%20EVANGELISTA&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INFORMATION+SYSTEMS+STUDENT;C%23+%7C+JAVASCRIPT+%7C+HTML+%7C+CSS;SOFTWARE+DEVELOPMENT+%7C+DATABASES;WELCOME+TO+MY+CODE+UNIVERSE"/>
 </div>
 
