@@ -124,22 +124,6 @@ const MyMindset = {
 
 ⸻
 
-🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alimackkj&theme=tokyonight&no-frame=true&margin-w=15"/>
-</div>
-
-⸻
-
-🐍 Contribution Animation
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/alimackkj/alimackkj/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-⸻
-
 🌎 Connect With Me
 
 <div align="center">
