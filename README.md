@@ -1,11 +1,11 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=CAMILA%20EVANGELISTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=CAMILA%20FERNANDA%20EVANGELISTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INFORMATION+SYSTEMS+STUDENT;C%23+%7C+JAVASCRIPT+%7C+HTML+%7C+CSS;SOFTWARE+DEVELOPMENT+%7C+DATABASES;WELCOME+TO+MY+CODE+UNIVERSE"/>
 </div>
 
 ⸻
 
-💜 CAMILA’S DIGITAL WORLD
+💜 CAMILA FERNANDA EVANGELISTA'S DIGITAL WORLD
 
 ╭────────────────────────────────╮
 │      CAMILA SYSTEM v1.0        │
@@ -78,7 +78,7 @@ const Camila = {
 
 💻 Project	💡 Description
 ⏱️ Flow Time	Productivity and time management web application
-🌳 Casa Árvores	Digital solution for activity and attendance management
+👵 Aparecida Acolhe	Digital solution for activity and attendance management
 💜 Academic Projects	Software development and database projects
 🧩 Programming Challenges	Logic, algorithms and data structures
 
@@ -146,7 +146,7 @@ const MyMindset = {
 <a href="https://github.com/alimackkj">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/camila-fernanda-evangelista-34b737344">
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
