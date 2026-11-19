@@ -80,17 +80,6 @@ STATUS: ALWAYS LEARNING 🚀
 STATUS: Building my future, one line of code at a time. 🚀
 ```
 
----
-
-### 🎯 Beyond the Code
-
-* **Believe:** Technology can transform ideas into reality
-* **Mindset:** Always curious, always learning
-* **Approach:** Understand the problem before writing the code
-* **Motivation:** Grow a little every day
-* **Future:** Become a professional in technology
-
----
 
 ### 📊 GitHub Analytics
 
