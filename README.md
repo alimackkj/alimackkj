@@ -25,48 +25,23 @@ STATUS: ALWAYS LEARNING 🚀
 
 ### 👩‍💻 About Me
 
-```javascript
-const Camila = {
-  name: "Camila Fernanda Evangelista",
-  role: "Information Systems Student",
-  university: "PUC Minas",
-  location: "Contagem, Minas Gerais, Brazil 🇧🇷",
-  interests: [
-    "Software Development",
-    "Backend Development",
-    "Database Management",
-    "IT Management",
-    "Technology & Innovation"
-  ],
-  programmingLanguages: [
-    "C#",
-    "JavaScript"
-  ],
-  webTechnologies: [
-    "HTML",
-    "CSS"
-  ],
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code"
-  ],
-  strengths: [
-    "Logical Thinking",
-    "Problem Solving",
-    "Mathematical Reasoning",
-    "Fast Learning",
-    "Teamwork"
-  ],
-  currentlyLearning: [
-    "Data Structures",
-    "Database Systems",
-    "Software Engineering",
-    "Backend Development"
-  ],
-  goal: "Turning ideas into technological solutions 💜"
-};
-```
+* **Name:** Camila Fernanda Evangelista
+* **Role:** Information Systems Student at **PUC Minas**
+* **Location:** Contagem, Minas Gerais, Brazil 🇧🇷
+* **Goal:** Turning ideas into technological solutions 💜
+
+**Main Interests:**
+* Software & Backend Development
+* Database Management
+* IT Management, Technology & Innovation
+
+**Skills & Tools:**
+* **Languages & Web:** C#, JavaScript, HTML, CSS
+* **Tools:** Git, GitHub, VS Code
+* **Strengths:** Logical Thinking, Problem Solving, Mathematical Reasoning, Fast Learning & Teamwork
+
+**Currently Learning:**
+* Data Structures, Database Systems, Software Engineering & Backend Development
 
 ---
 
@@ -109,15 +84,11 @@ STATUS: Building my future, one line of code at a time. 🚀
 
 ### 🎯 Beyond the Code
 
-```javascript
-const MyMindset = {
-  believe: "Technology can transform ideas into reality",
-  mindset: "Always curious, always learning",
-  approach: "Understand the problem before writing the code",
-  motivation: "Grow a little every day",
-  future: "Become a professional in technology"
-};
-```
+* **Believe:** Technology can transform ideas into reality
+* **Mindset:** Always curious, always learning
+* **Approach:** Understand the problem before writing the code
+* **Motivation:** Grow a little every day
+* **Future:** Become a professional in technology
 
 ---
 
